@@ -67,14 +67,18 @@ h2{
     margin: 1%;
     font-weight: lighter;
 }
-/* 
+
 #border2{
-    height:max-content;
-    margin-top: 1%; 
+    background-color: rgba(144, 148, 151, 0.296);
+    height:max-content; 
     display: flex; 
     flex-direction: column;  
     justify-content: right;
-} */
+}
+
+#border3{
+    margin: 1%;
+}
 
 
 #footer{

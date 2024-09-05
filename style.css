@@ -71,6 +71,11 @@ h1{
     margin-bottom: 1%;
 }
 
+h2{
+    margin: 1%;
+    font-weight: lighter;
+}
+
 #footer{
     position: fixed;
     padding: 1.3%;
